@@ -1,4 +1,4 @@
-# Salvager (a working title) design document
+# Scavanger (a working title) design document
 
 ## Description
 
