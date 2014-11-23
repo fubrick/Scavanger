@@ -1,4 +1,4 @@
-# Scavanger (a working title) design document
+# Scavenger design document
 
 ## Description
 
